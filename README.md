@@ -1,5 +1,5 @@
 # Hey There, I am Daniel Thomas! ✌👊😃
-## My aim is to make he world a better place!
+## My aim is to make the world a better place!
 
 Like I said my name is Daniel Thomas and I am 14.
 My hobbies are coding, building small robots and singing. I am the lead singer and keyboard player in a band called Lunar Lions. If you would like to reach out just send a mail to DanielTk999@gmail.com 

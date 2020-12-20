@@ -15,18 +15,17 @@ Coding | Robotics | Martial Arts | Singer | Nature Lover
 <hr />
 
 
-<h2> About Me <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> About Me 😀</h2>
 
 <h3>My aim is to make the world a better place!</h3>
 
 Like I said my name is Daniel Thomas and I am 14. My hobbies are coding, building small robots and singing. I am the lead singer and keyboard player in a band called Lunar Lions. If you would like to reach out just send a mail to DanielTk999@gmail.com
 
-Check out my Website: https://danieltk26.github.io/Daniel-Thomas/index.html#hero
+Check out my [Website]( https://danieltk26.github.io/Daniel-Thomas/index.html#hero)
 
-Have a temporary conversation with me. I like meeting and making new friends: https://danieltk26.github.io/Daniel-Chats/index.html
+Have a temporary conversation with me. I like meeting and making new friends: [Chat with me here]( https://danieltk26.github.io/Daniel-Chats/index.html)
  
- 
-<h3 align="center">Have a nice Day !!!</h3>
+<h3 align="center">Have a nice Day Ahead 😁😉 !!!</h3>
 
 [gmail]: DanielTk999@gmail.com
 [danielchats]: https://danieltk26.github.io/Daniel-Chats/index.html

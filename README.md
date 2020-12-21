@@ -1,5 +1,5 @@
 # Hey There I am [Daniel Thomas]( https://danieltk26.github.io/Daniel-Thomas/index.html#hero) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-Coding | Robotics | Martial Arts | Singer | Nature Lover
+Coding | Robotics | Martial Arts | Singing | Nature Lover
 
 ![alt text](cover.png)
 <p align="center">

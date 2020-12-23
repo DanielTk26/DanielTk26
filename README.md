@@ -23,12 +23,12 @@ Like I said my name is Daniel Thomas and I am 14. My hobbies are coding, buildin
 
 Check out my [Website]( https://danieltk26.github.io/Daniel-Thomas/index.html#hero)
 
-Have a temporary conversation with me. I like meeting and making new friends: [Chat with me here]( https://danieltk26.github.io/Daniel-Chats/index.html)
+Have a temporary conversation with me. I like meeting and making new friends: [Chat with me here]( https://danieltk26.github.io/Daniel-Chats/)
  
 <h3 align="center">Have a nice Day Ahead 😁😉 !!!</h3>
 
 [gmail]: DanielTk999@gmail.com
-[danielchats]: https://danieltk26.github.io/Daniel-Chats/index.html
+[danielchats]: https://danieltk26.github.io/Daniel-Chats/
 [roblox]: https://www.roblox.com/users/466671545/profile
 [myweb]: https://danieltk26.github.io/Daniel-Thomas/index.html#hero
 [grp]: https://https://github.com/Super-Teen-Coders

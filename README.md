@@ -31,4 +31,4 @@ Have a temporary conversation with me. I like meeting and making new friends: [C
 [danielchats]: https://danieltk26.github.io/Daniel-Chats/
 [roblox]: https://www.roblox.com/users/466671545/profile
 [myweb]: https://danieltk26.github.io/Daniel-Thomas/index.html#hero
-[grp]: https://https://github.com/Super-Teen-Coders
+[grp]: https://super-teen-coders.github.io/Super-Teen-Coders-Chat/

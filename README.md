@@ -23,7 +23,7 @@ Like I said my name is Daniel Thomas and I am 14. My hobbies are coding, buildin
 
 Check out my [Website]( https://danieltk26.github.io/Daniel-Thomas/index.html#hero)
 
-Have a temporary conversation with me. I like meeting and making new friends: [Chat with me here]( https://danieltk26.github.io/Daniel-Chats/)
+Have a temporary conversation with me. I like meeting and making new friends: [Chat with me here]( https://daniel-chats.netlify.app/)
  
 <h3 align="center">Have a nice Day Ahead 😁😉 !!!</h3>
 

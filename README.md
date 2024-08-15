@@ -17,7 +17,7 @@ Web Dev | App Dev | Finance | Crypto
 
 Hi mate! Just a guy doin his thing :)
 
-Check out my [Website]( https://danieltk26.github.io/Daniel-Thomas/index.html#hero)
+Check out my [Website]( https://danieltk26.github.io/DanielThomas/index.html#hero)
  
 <h3 align="center">Have a nice Day Ahead 😁😉 !!!</h3>
 

@@ -1,4 +1,4 @@
-# Hey There I am [Daniel Thomas]( [https://danieltk26.github.io/Daniel-Thomas/index.html#hero](https://danieltk26.github.io/DanielThomas/index.html)) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+# Hey There I am [Daniel Thomas]( https://danieltk26.github.io/DanielThomas/index.html#hero) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 Web Dev | App Dev | Finance | Crypto
 
 [<img height="30" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]

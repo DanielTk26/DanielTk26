@@ -24,5 +24,5 @@ Check out my [Website]( https://danielthomas-dev.web.app/)
 [gmail]: DanielTk999@gmail.com
 [danielchats]: https://danieltk26.github.io/Daniel-Chats/
 [roblox]: https://www.roblox.com/users/466671545/profile
-[myweb]: https://danieltk26.github.io/Daniel-Thomas/index.html#hero
+[myweb]: https://danielthomas-dev.web.app
 [grp]: https://https://github.com/Super-Teen-Coders

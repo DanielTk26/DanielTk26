@@ -2,7 +2,7 @@
 Web Dev | App Dev | Finance | Economics
 
 [<img height="30" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
-[<img height="30" src = "https://img.shields.io/badge/Daniel%20Chats-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white">][danielchats] 
+
 [<img height="30" src="https://img.shields.io/badge/Roblox-%230077B5.svg?&style=for-the-badge&logo=Roblox&logoColor=white" />][roblox]
 [<img height="30" src="https://img.shields.io/badge/My%20Website-blue.svg?&style=for-the-badge&logo=myweb&logoColor=white" />][myweb]
 [<img height="30" src="https://img.shields.io/badge/-Super%20Teen%20Coders-000000.svg?&style=for-the-badge&logo&logoColor=white" />][grp]

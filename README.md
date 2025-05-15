@@ -13,16 +13,16 @@ Web Dev | App Dev | Finance | Economics
 
 <h2> About Me 😀</h2>
 
-<h3>My aim is to make the world a better place!</h3>
+<h3></h3>
 
-Hi mate! Just a guy doin his thing :)
+Hi!Currently pursuing graduation. A passionate fintech enthusiast with a strong interest in economics and finance. Fascinated by market dynamics and the impact of politics and policy on the economy. Deeply interested in how technology integrates with and transforms financial systems.
 
 Check out my [Website]( https://danielthomas-dev.web.app/)
  
 <h3 align="center">Have a nice Day Ahead 😁😉 !!!</h3>
 
 [gmail]: DanielTk999@gmail.com
-[danielchats]: https://danieltk26.github.io/Daniel-Chats/
+
 [roblox]: https://www.roblox.com/users/466671545/profile
 [myweb]: https://danielthomas-dev.web.app
 [grp]: https://https://github.com/Super-Teen-Coders
